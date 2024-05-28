@@ -99,6 +99,11 @@ roslaunch ur5e_gripper_moveit_config demo.launch.py
 This will start the MoveIt! RViz interface with the UR5e robot and the 2F-140 Robotiq gripper, allowing you to plan and execute motions.
 
 
+## Acknowledgment
+
+This project was made possible thanks to the excellent tools and extensive development by the MoveIt community. The MoveIt Setup Assistant and the MoveIt framework have been instrumental in configuring and controlling the UR5e robot and the 2F-140 Robotiq gripper. We greatly appreciate their efforts and contributions to the robotics community.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
