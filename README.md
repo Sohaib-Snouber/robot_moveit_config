@@ -44,7 +44,7 @@ To regenerate these configuration files or to make modifications, use the MoveIt
 
 2. **Load the URDF file:**
    - In the Setup Assistant, click on "Create New MoveIt Configuration Package".
-   - Load your URDF file (e.g., `ur5e_robot.urdf.xacro`) which includes both the UR5e robot and the 2F-140 Robotiq gripper.
+   - Load your URDF file (e.g., `ur5e_robot.urdf`) which includes both the UR5e robot and the 2F-140 Robotiq gripper.
    - An URDF file can be found in this repository [here](https://github.com/Sohaib-Snouber/UR5e_robotiq_gripper_RViz.git), that is being created from the xacro file of the robot configuration.
 
 3. **Configure the Robot:**
