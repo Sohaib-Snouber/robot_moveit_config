@@ -39,7 +39,7 @@ To regenerate these configuration files or to make modifications, use the MoveIt
 
 1. **Launch MoveIt Setup Assistant:**
    ```bash
-   roslaunch moveit_setup_assistant setup_assistant.launch
+   ross launch moveit_setup_assistant setup_assistant.launch.py
    ```
 
 2. **Load the URDF file:**
@@ -93,7 +93,7 @@ UR5e_gripper_moveit_config/
 To use the provided configurations, simply launch the demo launch file:
 
 ```bash
-roslaunch ur5e_gripper_moveit_config demo.launch.py
+ros2 launch robot_moveit_config demo.launch.py
 ```
 
 This will start the MoveIt! RViz interface with the UR5e robot and the 2F-140 Robotiq gripper, allowing you to plan and execute motions.
