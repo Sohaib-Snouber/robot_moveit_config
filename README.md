@@ -22,7 +22,7 @@ Follow these steps to set up the UR5e robot with the 2F-140 Robotiq gripper in y
    git clone https://github.com/Sohaib-Snouber/robot_moveit_config.git
    ```
    
-3. Clone this repository: These packages contains the needed configuration files.
+3. Clone this repository: These packages contain the needed configuration files.
    ```bash
    git clone https://github.com/Sohaib-Snouber/UR5e_robotiq_gripper_RViz.git
    ```
